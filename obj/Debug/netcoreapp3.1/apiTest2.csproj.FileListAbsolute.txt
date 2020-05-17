@@ -1,0 +1,125 @@
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.exe
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.deps.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.runtimeconfig.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.runtimeconfig.dev.json
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.pdb
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.csprojAssemblyReference.cache
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\staticwebassets\apiTest2.StaticWebAssets.Manifest.cache
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\staticwebassets\apiTest2.StaticWebAssets.xml
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.MvcApplicationPartsAssemblyInfo.cache
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.AssemblyInfoInputs.cache
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.AssemblyInfo.cs
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.RazorTargetAssemblyInfo.cache
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.pdb
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\nam 4 ki 2\DA CNPM\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.csproj.CopyComplete
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\appsettings.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.exe
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.deps.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.runtimeconfig.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.runtimeconfig.dev.json
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\apiTest2.pdb
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\DACNganh\apiTest2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.csprojAssemblyReference.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.csproj.CoreCompileInputs.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.MvcApplicationPartsAssemblyInfo.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.AssemblyInfoInputs.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.AssemblyInfo.cs
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.RazorTargetAssemblyInfo.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.csproj.CopyComplete
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\staticwebassets\apiTest2.StaticWebAssets.Manifest.cache
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\staticwebassets\apiTest2.StaticWebAssets.xml
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.dll
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.pdb
+G:\DACNganh\apiTest2\obj\Debug\netcoreapp3.1\apiTest2.genruntimeconfig.cache
